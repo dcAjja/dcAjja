@@ -8,7 +8,8 @@
 
 ![programmer](https://github.com/dcAjja/dcAjja/blob/main/programmer.gif)
 #
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
+![willianrod's dcAjja stats](https://github-readme-stats.vercel.app/api/dcAjja?dcAjja)
+
 
 
 
