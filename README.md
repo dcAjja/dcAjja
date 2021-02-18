@@ -6,10 +6,7 @@
 
 ######  💻 OFC VIII
 
-![programmer](https://github.com/dcAjja/dcAjja/blob/main/programmer.gif)             ! [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Username=anuraghazra&layout=compact)
-<a href= "https://github.com/anuraghazra/github-readme-stats">
-  <img align = " center " src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</a>
+![programmer](https://github.com/dcAjja/dcAjja/blob/main/programmer.gif)
 #
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod) 
 
