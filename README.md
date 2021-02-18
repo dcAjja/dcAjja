@@ -8,7 +8,8 @@
 
 ![programmer](https://github.com/dcAjja/dcAjja/blob/main/programmer.gif)
 #
-![Estatísticas GitHub do dcAjja](https://github-readme-stats.vercel.app/api?Username=dcAjja&show_icons=true)
+![Estatísticas do GitHub de dcAjja](https://github-readme-stats.vercel.app/api?Username=dcAjja&show_icons=true&theme=radical)
+
 
 
 
