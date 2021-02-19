@@ -6,6 +6,8 @@
 
 ####  💻 OFC VIII
 
+#### 🌟 Studying languages until you have the knowledge to become a CEO.
+
 ![programmer](https://github.com/dcAjja/dcAjja/blob/main/programmer.gif)       [](https://github-readme-stats.vercel.app/api/top-langs/?Username=anuraghazra&layout=compact)
   <img align = " right " src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=demo" />
 </a>
