@@ -3,9 +3,7 @@
 #### 🌠 For those who don't know me. Nice to meet you, my name is Ajja. I'm a programming student, learning about JS and Py. I'm still in the basics, but I intend to me go deeper.
 
 #### 🌎 Toronto, Canadá. 🍁
-
 ####  💻 COMMANDER MEMBER VIII
-
 #### 🌟 Studying languages until you have the knowledge to become a CEO.
 ---
 ### *Spotify Songs <img src="https://cdn.discordapp.com/emojis/780099855182856192.gif?v=1" width="32px"/>*
