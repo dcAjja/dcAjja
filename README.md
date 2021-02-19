@@ -8,12 +8,9 @@
 
 ![programmer](https://github.com/dcAjja/dcAjja/blob/main/programmer.gif) [](https://github-readme-stats.vercel.app/api/top-langs/?Username=anuraghazra&layout=compact)
 <a href= "https://github.com/anuraghazra/github-readme-stats">
-  <img align = " center " src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align = " center " src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=demo" />
 </a>
 #
-[](https://github-readme-stats.vercel.app/api?Username=dcAjja&count_private=true)
-
-[](https://github-readme-stats.vercel.app/api?Username=dcAjja&show_icons=true&theme=radical)
 
 
 
