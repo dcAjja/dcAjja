@@ -1,10 +1,10 @@
 ###  AJJA PROFILE ❄️
 
-###### 🌠 For those who don't know me. Nice to meet you, my name is Ajja. I'm a programming student, learning about JS and Py. I'm still in the basics, but I intend to me go deeper.
+#### 🌠 For those who don't know me. Nice to meet you, my name is Ajja. I'm a programming student, learning about JS and Py. I'm still in the basics, but I intend to me go deeper.
 
-###### 🌎 Toronto, Canadá. 🍁
+#### 🌎 Toronto, Canadá. 🍁
 
-######  💻 OFC VIII
+####  💻 OFC VIII
 
 ![programmer](https://github.com/dcAjja/dcAjja/blob/main/programmer.gif)       [](https://github-readme-stats.vercel.app/api/top-langs/?Username=anuraghazra&layout=compact)
   <img align = " right " src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=demo" />
