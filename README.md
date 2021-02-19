@@ -13,7 +13,7 @@
 #
  <p align="center"><img src="/readme-stats.svg?raw=true" alt="dcAjja"/></p>                                   
  
- <p align="center"><img src="GitStats.png?raw=true" alt="dcAjja"/></p>
+ <p align="center"><img src="StatsGit.png?raw=true" alt="dcAjja"/></p>
 
 
 
