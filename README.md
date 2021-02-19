@@ -12,7 +12,9 @@
 </a>
 #
 
- ![](/readme-stats.svg?raw=true)
+ <p align="center"><img src="/readme-stats.svg?raw=true" alt="dcAjja"/></p>                                   
+ 
+ <p align="center"><img src="stats.svg?raw=true" alt="dcAjja"/></p>
 
 
 
