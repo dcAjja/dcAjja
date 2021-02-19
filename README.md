@@ -6,7 +6,7 @@
 
 ######  💻 OFC VIII
 
-![programmer](https://github.com/dcAjja/dcAjja/blob/main/programmer.gif)   <p align="right"><img src="MostUsedLanguages.svg?raw=true" alt="dcAjja"/></p>
+![programmer](https://github.com/dcAjja/dcAjja/blob/main/programmer.gif)   
 #
  <p align="center"><img src="/readme-stats.svg?raw=true" alt="dcAjja"/></p>                                   
  
