@@ -1,6 +1,6 @@
 ###  AJJA PROFILE ❄️
 
-###### 🌠 For those who don't know me. Nice to meet you, my name is Ajja. I'm a programming student, learning about JS and Py. I'm still in the basics, but I intend to  me aprofundar mais.
+###### 🌠 For those who don't know me. Nice to meet you, my name is Ajja. I'm a programming student, learning about JS and Py. I'm still in the basics, but I intend to me go deeper.
 
 ###### 🌎 Toronto, Canadá. 🍁
 
