@@ -4,7 +4,7 @@
 
 #### 🌎 Toronto, Canadá. 🍁
 
-####  💻 OFC VIII
+####  💻 COMMANDER MEMBER VIII
 
 #### 🌟 Studying languages until you have the knowledge to become a CEO.
 
