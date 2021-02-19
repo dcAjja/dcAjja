@@ -14,7 +14,7 @@
                             
  
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dcAjja&show_icons=true&theme=radical" alt="dcAjja"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=dcAjja&show_icons=true&theme=radical" alt="dcAjja"/></p>
 
 #
 
