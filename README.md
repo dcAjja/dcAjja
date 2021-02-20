@@ -11,8 +11,6 @@
 <img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="380" />[](https://open.spotify.com/user/96gc5wx70rl3k9x096b70xc3r?si=TDAz25VcS-i-qPEKS1)  <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/728876364106694727/812435812984553502/gif_programmer.gif" height="280px" width="454px"> 
 
 
-<p align="left"><img src="/readme-stats.svg?raw=true" alt="dcAjja"/></p> <p align="left"><img src="![programmer](https://github.com/dcAjja/dcAjja/blob/main/programmer.gif)" alt=""/></p> 
-
 
 ---
 
